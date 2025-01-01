@@ -1,0 +1,9 @@
+pandoc: '3.2'
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  stemcompute: stemcompute.html
+last_built: 2025-01-01T20:48Z
+urls:
+  reference: https://stemxresearch.github.io/rstem/reference
+  article: https://stemxresearch.github.io/rstem/articles

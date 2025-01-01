@@ -1,0 +1,29 @@
+Package: rstemlab
+Type: Package
+Title: An R Library for Numerical Analysis and Computing in STEM
+Version: 0.1.0
+Authors@R: 
+    person("John", "Indika", , "library@stemxresearch.com", role = c("aut", "cre"),
+           comment = c(ORCID = ""))
+Maintainer: John Indika <library@stemxresearch.com>
+Description: A comprehensive R library designed for numerical analysis and computing in STEM fields. It provides tools for solving equations, performing simulations, analyzing data, and visualizing results, empowering researchers and students in science, technology, engineering, and mathematics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr,
+    ggplot2,
+    gt,
+    janitor,
+    pracma,
+    Ryacas,
+    stringr,
+    tibble,
+    tidyr
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)
