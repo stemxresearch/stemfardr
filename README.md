@@ -1,7 +1,7 @@
 
 ## Overview
 
-`rstemlab` is a comprehensive R library designed for numerical analysis
+`stemfard` is a comprehensive R library designed for numerical analysis
 and computing in STEM fields. It provides tools for solving equations,
 performing simulations, analyzing data, and visualizing results,
 empowering researchers and students in science, technology, engineering,
