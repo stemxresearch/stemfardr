@@ -11,7 +11,7 @@ and mathematics.
 
 ``` r
 install.packages("devtools")
-devtools::install_github("stemxresearch/rstemlab")
+devtools::install_github("stemxresearch/stemfardr")
 ```
 
 ## Usage
@@ -20,20 +20,20 @@ To use the `rstemlab` package, you must start by loading it using the
 `library()` function as shown below.
 
 ``` r
-library(rstemlab)
+library(stemfard)
 ```
 
 ## Getting started
 
 Click the **Get Started** link on the top menu or follow the link
 [Getting
-started](https://stemxresearch.github.io/rstemlab/articles/rstemlab.html)
+started](https://stemxresearch.github.io/stemfardr/articles/stemfardr.html)
 for a quick tutorial on the `rstemlab` library.
 
 ## Documentation
 
 The **Reference** menu on the top menu or [this
-page](https://stemxresearch.github.io/rstemlab/reference/index.html)
+page](https://stemxresearch.github.io/stemfardr/reference/index.html)
 provides a list of all the functions available in the `rstemlab` package
 with help documentation including syntax and examples.
 
@@ -41,7 +41,7 @@ with help documentation including syntax and examples.
 
 If you encounter a clear bug, please file an issue with a minimal
 reproducible example on
-[GitHub](https://github.com/stemxresearch/rstemlab/issues).
+[GitHub](https://github.com/stemxresearch/stemfardr/issues).
 
 ## Code of conduct
 
