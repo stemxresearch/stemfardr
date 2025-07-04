@@ -16,7 +16,7 @@
 #' @examples
 #' stm_zeros(nrows = 4)
 #' stm_zeros(nrows = 3, ncols = 3)
-#' stm_zeros(nrows = 2, ncols = 4)
+#' stm_zeros(nrows = 2, ncols = 4) 
 #'
 #' @export
 stm_zeros <- function(nrows, ncols = nrows) {
